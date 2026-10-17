@@ -1,4 +1,4 @@
-
+# Tự viết và hiểu bản chất vector
 a = [1, 2, 3]
 b = [4, 5, 6]
 
@@ -10,3 +10,4 @@ print("Cộng vector a + b = ", vector_cong)
 
 dot_product = sum(a[i] * b[i] for i in range(len(a)))
 print("Tích vô hướng a · b = ", dot_product)
+print("Thu nghiem nhanh moi")
